@@ -38,21 +38,19 @@
               "RelativeToolTip": "UserContact_API\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-01-04T18:48:09.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T18:48:09.192Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Employee_API",
+              "Title": "Employee_API.csproj",
               "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Employee_API.csproj",
               "RelativeDocumentMoniker": "UserContact_API\\Employee_API.csproj",
               "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Employee_API.csproj",
               "RelativeToolTip": "UserContact_API\\Employee_API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-04T18:25:29.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T18:25:29.25Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "UserContact_API\\Program.cs",
               "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Program.cs",
               "RelativeToolTip": "UserContact_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T18:11:10.947Z",
               "EditorCaption": ""
