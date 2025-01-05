@@ -2,7 +2,7 @@
 obj
 packages
 
-*.vs
+.vs/
 
 # Files built by Visual Studio
 *_i.c
@@ -46,6 +46,7 @@ packages
 *.rar
 *.pdf
 *.PNG
+*.vsidx
 
 # Click-Once directory
 publish/

@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Project\\BSystem\\BirdiSystem_Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\services\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\services\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\wwwroot\\empoyees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\wwwroot\\empoyees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|solutionrelative:usercontact_api\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C9E9254-5CE6-48B9-89B9-FB719D98C3AD}|UserContact_API\\Employee_API.csproj|c:\\project\\bsystem\\birdisystem_backend\\usercontact_api\\employee_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +54,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Services\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "UserContact_API\\Services\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Services\\IJwtTokenService.cs",
+              "RelativeToolTip": "UserContact_API\\Services\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:09:38.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "UserContact_API\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "UserContact_API\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:07:54.95Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\appsettings.json",
+              "RelativeDocumentMoniker": "UserContact_API\\appsettings.json",
+              "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\appsettings.json",
+              "RelativeToolTip": "UserContact_API\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T11:45:19.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\.gitignore",
               "RelativeDocumentMoniker": "UserContact_API\\.gitignore",
               "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\.gitignore",
               "RelativeToolTip": "UserContact_API\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwEEAAAAPAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-01-04T18:48:09.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee_API",
+              "DocumentIndex": 8,
+              "Title": "Employee_API.csproj",
               "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Employee_API.csproj",
               "RelativeDocumentMoniker": "UserContact_API\\Employee_API.csproj",
               "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Employee_API.csproj",
               "RelativeToolTip": "UserContact_API\\Employee_API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-04T18:25:29.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T18:25:29.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Program.cs",
               "RelativeDocumentMoniker": "UserContact_API\\Program.cs",
               "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Program.cs",
               "RelativeToolTip": "UserContact_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T18:11:10.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T18:11:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "UserContact_API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "UserContact_API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:14:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "empoyees.json",
+              "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\wwwroot\\empoyees.json",
+              "RelativeDocumentMoniker": "UserContact_API\\wwwroot\\empoyees.json",
+              "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\wwwroot\\empoyees.json",
+              "RelativeToolTip": "UserContact_API\\wwwroot\\empoyees.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T13:09:55.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "UserContact_API\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Project\\BSystem\\BirdiSystem_Backend\\UserContact_API\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "UserContact_API\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:11:16.634Z"
             }
           ]
         }
